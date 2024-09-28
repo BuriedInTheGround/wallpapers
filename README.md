@@ -120,6 +120,30 @@ This is a selection of some wallpapers I have collected over time.
             <td><img src="./thumbs/100231758_p0.jpg"></td>
             <td><a href="https://www.pixiv.net/en/artworks/100231758" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/100231758</a></td>
         </tr>
+        <tr>
+            <td>パスコン係 / bypass capacitor coordinator</td>
+            <td><a href="./91199411_p0.png">91199411_p0.png</a></td>
+            <td><img src="./thumbs/91199411_p0.png"></td>
+            <td><a href="https://www.pixiv.net/en/artworks/91199411" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/91199411</a></td>
+        </tr>
+        <tr>
+            <td>爆破実験 / explosion experiment</td>
+            <td><a href="./107214767_p0.png">107214767_p0.png</a></td>
+            <td><img src="./thumbs/107214767_p0.png"></td>
+            <td><a href="https://www.pixiv.net/en/artworks/107214767" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/107214767</a></td>
+        </tr>
+        <tr>
+            <td>SOLDER SOLDIER</td>
+            <td><a href="./62691932_p1.png">62691932_p1.png</a></td>
+            <td><img src="./thumbs/62691932_p1.png"></td>
+            <td><a href="https://www.pixiv.net/en/artworks/62691932" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/62691932</a></td>
+        </tr>
+        <tr>
+            <td>100年ぶりの実験炉一般見学会</td>
+            <td><a href="./91140651_p0.jpg">91140651_p0.jpg</a></td>
+            <td><img src="./thumbs/91140651_p0.jpg"></td>
+            <td><a href="https://www.pixiv.net/en/artworks/91140651" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/91140651</a></td>
+        </tr>
     <tfoot>
         <tr>
             <th>Name</th>
