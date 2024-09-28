@@ -96,6 +96,30 @@ This is a selection of some wallpapers I have collected over time.
             <td><img src="./thumbs/woo-chul-lee-11.png"></td>
             <td><a href="https://www.artstation.com/artwork/mLqVd" rel="external nofollow" target="_blank">https://www.artstation.com/artwork/mLqVd</a></td>
         </tr>
+        <tr>
+            <td>feels like we can't win</td>
+            <td><a href="./106799163_p0.jpg">106799163_p0.jpg</a></td>
+            <td><img src="./thumbs/106799163_p0.jpg"></td>
+            <td><a href="https://www.pixiv.net/en/artworks/106799163" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/106799163</a></td>
+        </tr>
+        <tr>
+            <td>black sailor uniform</td>
+            <td><a href="./114273686_p0.jpg">114273686_p0.jpg</a></td>
+            <td><img src="./thumbs/114273686_p0.jpg"></td>
+            <td><a href="https://www.pixiv.net/en/artworks/114273686" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/114273686</a></td>
+        </tr>
+        <tr>
+            <td>angel</td>
+            <td><a href="./117542401_p0.jpg">117542401_p0.jpg</a></td>
+            <td><img src="./thumbs/117542401_p0.jpg"></td>
+            <td><a href="https://www.pixiv.net/en/artworks/117542401" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/117542401</a></td>
+        </tr>
+        <tr>
+            <td>I Can't Stop Loving You</td>
+            <td><a href="./100231758_p0.jpg">100231758_p0.jpg</a></td>
+            <td><img src="./thumbs/100231758_p0.jpg"></td>
+            <td><a href="https://www.pixiv.net/en/artworks/100231758" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/100231758</a></td>
+        </tr>
     <tfoot>
         <tr>
             <th>Name</th>
