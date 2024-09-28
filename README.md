@@ -90,6 +90,12 @@ This is a selection of some wallpapers I have collected over time.
             <td><img src="./thumbs/106798927_p0.png"></td>
             <td><a href="https://www.pixiv.net/en/artworks/106798927" rel="external nofollow" target="_blank">https://www.pixiv.net/en/artworks/106798927</a></td>
         </tr>
+        <tr>
+            <td>용사여관 / Inn Of Heroes</td>
+            <td><a href="./woo-chul-lee-11.png">woo-chul-lee-11.png</a></td>
+            <td><img src="./thumbs/woo-chul-lee-11.png"></td>
+            <td><a href="https://www.artstation.com/artwork/mLqVd" rel="external nofollow" target="_blank">https://www.artstation.com/artwork/mLqVd</a></td>
+        </tr>
     <tfoot>
         <tr>
             <th>Name</th>
