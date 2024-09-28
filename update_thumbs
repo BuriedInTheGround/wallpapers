@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 
-find ./*.jpg ./*.png -mtime -1 -printf '%f\0' | while IFS= read -r -d '' img; do
+filter="-mtime -1"
+if [[ "$1" == "all" ]]; then
+    filter=""
+fi
+
+# shellcheck disable=SC2086
+find ./*.jpg ./*.png $filter -printf '%f\0' | while IFS= read -r -d '' img; do
     echo "Updating thumbnail for $img"
-    magick "$img" -resize "${1:-20}%" "thumbs/$img"
+    magick "$img" -resize 15% "thumbs/$img"
 done
