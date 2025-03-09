@@ -6,7 +6,13 @@ if [[ "$1" == "all" ]]; then
 fi
 
 # shellcheck disable=SC2086
-find ./*.jpg ./*.png $filter -printf '%f\0' | while IFS= read -r -d '' img; do
-    echo "Updating thumbnail for $img"
-    magick "$img" -resize 10% "thumbs/$img"
+find ./dark/*.jpg ./dark/*.png $filter -printf '%f\0' | while IFS= read -r -d '' img; do
+    echo "Updating thumbnail for \"$img\" (dark)"
+    magick "dark/$img" -resize 10% "dark/thumbs/$img"
+done
+
+# shellcheck disable=SC2086
+find ./light/*.jpg ./light/*.png $filter -printf '%f\0' | while IFS= read -r -d '' img; do
+    echo "Updating thumbnail for \"$img\" (light)"
+    magick "light/$img" -resize 10% "light/thumbs/$img"
 done
